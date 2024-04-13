@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anik Chakraborty</h1>
 <h3 align="center">An enthusiastic QA Engineer with a strong commitment to delivering high-quality software products.</h3>
-<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=kIacWWXj&id=CC13C72D6E82213098C0A2435427836A53BA4461&thid=OIP.kIacWWXjfYBFXqIXhIuCXQHaFj&mediaurl=https%3a%2f%2fphysicsgurukul.com%2fwp-content%2fuploads%2f2019%2f02%2fcharacter-1.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.90869c5965e37d80455ea217848b825d%3frik%3dYUS6U2qDJ1RDog%26pid%3dImgRaw%26r%3d0&exph=600&expw=800&q=Coding+Cartoon+GIF&simid=608034895844303177&FORM=IRPRST&ck=44C8AE6C9CBC7341E94875B491CCC03F&selectedIndex=13&itb=0">
+<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwjfg4yMhr-FAxV9mmMGHVsvAvYQMygCegQIARB2..i&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&w=800&h=600&q=Animated%20coding%20GIF&ved=2ahUKEwjfg4yMhr-FAxV9mmMGHVsvAvYQMygCegQIARB2">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik16298&label=Profile%20views&color=0e75b6&style=flat" alt="anik16298" /> </p>
 
