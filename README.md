@@ -1,7 +1,6 @@
-![MasterHead](https://t3.ftcdn.net/jpg/01/36/51/44/360_F_136514488_j1u863gh50fsRqIFQDHIn1HW7JeHPJVz.jpg)
 <h1 align="center">Hi 👋, I'm Anik Chakraborty</h1>
 <h3 align="center">An enthusiastic QA Engineer with a strong commitment to delivering high-quality software products.</h3>
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik16298&label=Profile%20views&color=0e75b6&style=flat" alt="anik16298" /> </p>
 
