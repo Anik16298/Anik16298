@@ -1,4 +1,4 @@
-![MasterHead](https://www.qcmore.com/blog/wp-content/uploads/2018/10/Software-testing-Training.jpg)
+![MasterHead](https://t3.ftcdn.net/jpg/01/36/51/44/360_F_136514488_j1u863gh50fsRqIFQDHIn1HW7JeHPJVz.jpg)
 <h1 align="center">Hi 👋, I'm Anik Chakraborty</h1>
 <h3 align="center">An enthusiastic QA Engineer with a strong commitment to delivering high-quality software products.</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
