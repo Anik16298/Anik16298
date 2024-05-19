@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anik16298" alt="anik16298" /></a> </p>
 
-- 🔭 I’m currently working **as a Freelancer**
+- 🔭 I’m currently working as SQA Trainee at **IT Tranning BD**
 
 - 🌱 I’m currently learning **Automation Testing**
 
