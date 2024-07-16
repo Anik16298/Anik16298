@@ -1,4 +1,4 @@
-a<h1 align="center">Hi 👋, I'm Anik Chakraborty</h1>
+<h1 align="center">Hi 👋, I'm Anik Chakraborty</h1>
 <h3 align="center">An enthusiastic QA Engineer with a strong commitment to delivering high-quality software products.</h3>
 <img align="center" alt="coding" width="450" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
@@ -19,7 +19,7 @@ a<h1 align="center">Hi 👋, I'm Anik Chakraborty</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/helloanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/helloanik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/helloanik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/helloanik" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/anik989.live" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="[https://www.facebook.com/anik989.live](https://www.facebook.com/anik989.live?mibextid=JRoKGi)" height="30" width="40" /></a>
 <a href="https://instagram.com/arunabho_anik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/arunabho_anik" height="30" width="40" /></a>
 </p>
