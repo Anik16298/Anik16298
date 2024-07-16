@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **JAVA and Java Script**
 
-- 📫 How to reach me: **arunabhoanik@gmail.com**
+- 📫 How to reach me : **arunabhoanik@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
