@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anik Chakraborty</h1>
 <h3 align="center">An enthusiastic QA Engineer with a strong commitment to delivering high-quality software products.</h3>
 
-<img align="center" alt="coding" width="950" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="center" alt="coding" width="1000" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik16298&label=Profile%20views&color=0e75b6&style=flat" alt="anik16298" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anik16298" alt="anik16298" /></a> </p>
 
-- 🔭 I’m currently working as a [SQA Trainee at](**IT Training BD**)
+- 🔭 I’m currently working as a SQA Intern at **Manhattan Tech**
 
 - 🌱 I’m currently learning ****Automation Testing****
 
