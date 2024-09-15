@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anik16298" alt="anik16298" /></a> </p>
 
-- 🔭 I’m currently working as a SQA Intern at **Manhattan Tech**
+- 🔭 I’m currently working as a SQA Enigineer(Intern) at **Manhattan Tech**
 
 - 🌱 I’m currently learning ****Automation Testing****
 
