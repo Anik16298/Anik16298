@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anik Chakraborty.</h1>
 <h3 align="center">A detail-oriented QA Analyst skilled in identifying and resolving defects in a timely manner.</h3>
 
-<img align="center" alt="coding" width="500" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
+<img align="center" alt="coding" width="700" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik16298&label=Profile%20views&color=0e75b6&style=flat" alt="anik16298" /> </p>
 
