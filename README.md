@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anik Chakraborty.</h1>
 <h3 align="center">A detail-oriented QA Analyst skilled in identifying and resolving defects in a timely manner.</h3>
 
-<img align="right" alt="coding" src="https://miro.medium.com/v2/resize:fit:960/1*A6Sl8DS_C6-mYf2KiqvtyA.gif">
+<img align="center" alt="coding" src="https://miro.medium.com/v2/resize:fit:960/1*A6Sl8DS_C6-mYf2KiqvtyA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik16298&label=Profile%20views&color=0e75b6&style=flat" alt="anik16298" /> </p>
 
