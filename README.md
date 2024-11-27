@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik16298&label=Profile%20views&color=0e75b6&style=flat" alt="anik16298" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anik16298" alt="anik16298" /></a> </p>
-
 ## 💫 About Me
 - 🔭 I’m currently working as a SQA Engineer(Intern) at **AKIJ iBOS Limited**
 
