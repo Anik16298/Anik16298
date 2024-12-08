@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **arunabhoanik@gmail.com**
 
-- 🔗 Connect with Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anik16298)
+- 🔗 Connect with Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/anik16298)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
