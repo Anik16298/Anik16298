@@ -7,7 +7,7 @@
 </p>
 
 ## 💫 About Me
-- 🔭 I’m currently working as a SQA Engineer(Intern) at **AKIJ iBOS Limited**
+- 🔭 I’m currently working as a SQA Engineer(Intern) at **<a href="https://ibos.io/" target="_blank">AKIJ iBOS Limited</a>**
 
 - 🌱 I’m currently learning ****Automation Testing****
 
