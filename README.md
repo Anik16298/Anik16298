@@ -3,7 +3,7 @@
 
 <img align="center" alt="coding" height="400" width="1200" src="https://miro.medium.com/v2/resize:fit:960/1*A6Sl8DS_C6-mYf2KiqvtyA.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anik16298&label=PROFILE+VIEWS&color=bf5381&style=plastic"alt="anik16298"/> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anik16298&label=PROFILE+VIEWS&color=66aab2&style=plastic"alt="anik16298"/> 
 </p>
 
 ## 💫 About Me
