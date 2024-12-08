@@ -3,7 +3,9 @@
 
 <img align="center" alt="coding" height="400" width="1200" src="https://miro.medium.com/v2/resize:fit:960/1*A6Sl8DS_C6-mYf2KiqvtyA.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anik16298&label=Profile%20views&color=0e75b6&style=flat" alt="anik16298" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anik16298&label=Profile+views&color=orange&style=flat"alt="anik16298" /> 
+
+</p>
 
 ## 💫 About Me
 - 🔭 I’m currently working as a SQA Engineer(Intern) at **AKIJ iBOS Limited**
