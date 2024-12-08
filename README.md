@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **arunabhoanik@gmail.com**
 
+- 🔗 Connect with Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anik16298)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/helloanik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/helloanik" height="30" width="40" /></a>
@@ -50,9 +52,3 @@
 - Load & Performance Testing using JMeter 
 - Web Automation with Selenium & Playwright Frameworks
 - Mobile Automation with Appium Framework
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anik16298&show_icons=true&locale=en&layout=compact" alt="anik16298" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anik16298&show_icons=true&locale=en" alt="anik16298" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anik16298&" alt="anik16298" /></p>
