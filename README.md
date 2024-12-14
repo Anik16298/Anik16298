@@ -45,7 +45,7 @@
 - Mind Map with Xmind
 - Manual Testing
 - API Testing
-- Agile & Jira
+- Agile☞Jira
 - Java(MID)
 - Load & Performance Testing using JMeter 
 - Web Automation with Selenium & Playwright Frameworks
