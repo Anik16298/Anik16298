@@ -46,7 +46,7 @@
 - Manual Testing
 - API Testing
 - Agile☞Jira
-- Java(MID)
+- Java & Python
 - Load & Performance Testing using JMeter 
 - Web Automation with Selenium & Playwright Frameworks
 - Mobile Automation with Appium Framework
