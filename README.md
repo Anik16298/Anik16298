@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently practicing ****Automation Testing****
 
-- 💬 Ask me about **Manual testing, Software testing, API testing, Web automation testing, ERP Testing & HRM Testing.**
+- 💬 Ask me about **Manual testing, Software testing, API testing, Web automation testing, SaaS (ERP & HRM) Testing.**
 
 - 📫 How to reach me **arunabhoanik@gmail.com**
 
