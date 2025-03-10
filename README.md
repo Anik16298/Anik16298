@@ -9,7 +9,7 @@
 ## 💫 About Me
 - 🔭 I’m currently working as a Junior SQA Engineer at **<a href="https://ibos.io/" target="_blank">AKIJ iBOS Limited</a>**
 
-- 🌱 I’m currently practicing ****Automation Testing****
+- 🌱 I’m currently practicing ****Automation Testing.****
 
 - 💬 Ask me about **Manual testing, Software testing, API testing, Web automation testing, SaaS (ERP & HRM) Testing.**
 
