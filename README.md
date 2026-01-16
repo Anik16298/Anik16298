@@ -11,7 +11,9 @@
 
 - 🌱 I’m currently practicing ****Automation Testing.****
 
-- 💬 Ask me about **Manual testing, Software testing, API testing, Web automation testing, SaaS (ERP & HRM) Testing.**
+- 💬 Ask me about **Manual testing, Automation testing, API testing & Load testing.**
+  
+- 🧑‍💻 I also know **How to use AI in SQA & How to test Saas based HRM & Career Portal software **
 
 - 📫 How to reach me **arunabhoanik@gmail.com**
 
