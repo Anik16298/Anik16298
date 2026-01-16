@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anik Chakraborty.</h1>
-<h3 align="center">A detail-oriented QA Analyst skilled in timely identifying and resolving defects.</h3>
+<h3 align="center">A detail-oriented SQA Enginerr skilled in timely identifying and resolving defects.</h3>
 
 <img align="center" alt="coding" height="400" width="1200" src="https://miro.medium.com/v2/resize:fit:960/1*A6Sl8DS_C6-mYf2KiqvtyA.gif">
 
@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently practicing ****Automation Testing.****
 
-- 💬 Ask me about **Manual testing, Automation testing, API testing & Load testing.**
+- 💬 Ask me about- **Manual testing, Automation testing, API testing & Load testing.**
   
-- 🧑‍💻 I also know **How to use AI in SQA & How to test Saas based HRM & Career Portal software **
+- 🧑‍💻 I also know- **How to use AI in SQA & How to test Saas based HRM & Career Portal software.**
 
 - 📫 How to reach me **arunabhoanik@gmail.com**
 
