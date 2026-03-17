@@ -9,11 +9,9 @@
 ## 💫 About Me
 - 🔭 I’m currently working as a Junior SQA Engineer at **<a href="https://ibos.io/" target="_blank">AKIJ iBOS Limited</a>**
 
-- 🌱 I’m currently practicing ****Automation Testing.****
+- 🌱 I’m currently practicing ****Advanced Automation Testing Using Playwright & POM Method.****
 
-- 💬 Ask me about- **Manual testing, Automation testing, API testing & Load testing.**
-  
-- 🧑‍💻 I also know- **How to use AI in SQA & How to test Saas based HRM & Career Portal software.**
+- 💬 You can Gossip with me- **About Advanced Testing Process.**
 
 - 📫 How to reach me **arunabhoanik@gmail.com**
 
@@ -43,12 +41,12 @@
 </p>
 
 ## 🔧 Skills
-- Test Case and Report writing
-- Mind Map with Xmind
+- Test Mapping with Xmind
+- Test Case and Proper Test Closer Report writing
 - Manual Testing
-- API Testing
-- Agile☞Jira
-- Java & Python
-- Load & Performance Testing using JMeter 
-- Web Automation with Selenium & Playwright Frameworks
+- Automation Testing with Selenium & Playwright
 - Mobile Automation with Appium Framework
+- API Testing
+- Load & Performance Testing
+- Test Reporting with jira & ClickUp
+
