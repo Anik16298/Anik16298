@@ -68,7 +68,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
   </a>
   <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/logos:apache-jmeter.svg" alt="jmeter" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=jmeter" alt="jmeter" width="40" height="40"/>
   </a>
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
@@ -77,7 +77,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/>
   </a>
   <a href="https://appium.io/" target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/logos:appium.svg" alt="appium" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=appium" alt="appium" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
