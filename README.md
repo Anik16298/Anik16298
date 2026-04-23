@@ -17,7 +17,8 @@
 
 ---
 
-<img align="right" src="https://miro.medium.com/v2/resize:fit:960/1*A6Sl8DS_C6-mYf2KiqvtyA.gif" width="405"/>
+| <img src="https://miro.medium.com/v2/resize:fit:960/1*A6Sl8DS_C6-mYf2KiqvtyA.gif" width="405"/> |
+|:---:|
 
 ## `⟦ BUG_HUNTER_PROFILE ⟧`
 
