@@ -21,6 +21,7 @@
 
 ## `⟦ BUG_HUNTER_PROFILE ⟧`
 
+```ini
 ╔══════════════════════════════════════════════╗
 ║  UNIT_ID   : Anik Chakraborty               ║
 ║  CALLSIGN  : anik16298                      ║
@@ -33,6 +34,7 @@
 ║  THREAT LV : ████████████ BUGS BEWARE       ║
 ╚══════════════════════════════════════════════╝
 
+```
 <br clear="right"/>
 
 ---
