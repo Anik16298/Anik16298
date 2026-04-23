@@ -109,13 +109,13 @@
 
 ---
 
-## `⟦ ACHIEVEMENT_LOG ⟧`
+/* ## `⟦ ACHIEVEMENT_LOG ⟧`
 
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=anik16298&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=7)
 
-</div>
+</div> */
 
 ---
 
