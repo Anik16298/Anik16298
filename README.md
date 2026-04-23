@@ -28,7 +28,8 @@
 ║  CLASS     : Junior SQA Engineer            ║
 ║  BASE      : AKIJ iBOS Limited              ║
 ║  SECTOR    : Quality Assurance Division     ║
-║  PROTOCOL  : Playwright POM — ACTIVE        ║
+║  PROTOCOL  : Advanced Automation with       ║
+║              Playwright & POM Functionality ║
 ║  CLEARANCE : Advanced Testing Process       ║
 ║  SIGNAL    : arunabhoanik@gmail.com         ║
 ║  THREAT LV : ████████████ BUGS BEWARE       ║
