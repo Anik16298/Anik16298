@@ -4,9 +4,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=650&lines=◤+SYSTEM+ONLINE+—+UNIT%3A+ANIK_CHAKRABORTY.exe+◥;◤+MISSION%3A+HUNTING+BUGS+ACROSS+THE+CODEBASE+◥;◤+WEAPONS%3A+PLAYWRIGHT+%7C+SELENIUM+%7C+APPIUM+◥;◤+BREAKING+THINGS+TO+FIX+THEM+SINCE+DAY+ONE+◥" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=20&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=650&lines=◤+SYSTEM+ONLINE+—+UNIT%3A+ANIK_CHAKRABORTY.exe+◥;◤+MISSION%3A+HUNTING+BUGS+ACROSS+THE+CODEBASE+◥;◤+WEAPONS%3A+PLAYWRIGHT+%7C+SELENIUM+%7C+APPIUM+◥;◤+BREAKING+THINGS+TO+FIX+THEM+SINCE+DAY+ONE+◥)](https://git.io/typing-svg)
 
-<br/><br/>
+<br/>
 
 ![](https://img.shields.io/badge/STATUS-●_ONLINE-00FFD1?style=for-the-badge&labelColor=0D1117)
 ![](https://img.shields.io/badge/ROLE-SQA_ENGINEER-00BFFF?style=for-the-badge&labelColor=0D1117)
