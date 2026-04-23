@@ -19,7 +19,7 @@
 
 ## `⟦ BUG_HUNTER_PROFILE ⟧`
 
-<img align="right" src="https://miro.medium.com/v2/resize:fit:960/1*A6Sl8DS_C6-mYf2KiqvtyA.gif" width="370"/>
+<img align="right" src="https://miro.medium.com/v2/resize:fit:960/1*A6Sl8DS_C6-mYf2KiqvtyA.gif" width="350"/>
 
 ```ini
 ╔══════════════════════════════════════════════╗
