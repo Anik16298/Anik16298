@@ -88,10 +88,10 @@
 ║  TEST XMIND MAPPING      ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱   85%  [ ADVANCED  ]     ║
 ║  TEST CASE WRITING       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  100%  [ MASTERED  ]     ║
 ║  MANUAL TESTING          ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  100%  [ MASTERED  ]     ║      
-║  Automation TESTING      ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱   78%  [ RISING  ↑ ]     ║
+║  Automation TESTING      ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱   80%  [ RISING  ↑ ]     ║
 ║  MOBILE APP TESTING      ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱   70%  [ GROWING ↑ ]     ║
 ║  API TESTING             ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱   70%  [ GROWING ↑ ]     ║
-║  LOAD & PERF TESTING     ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱   65%  [ GROWING ↑ ]     ║
+║  LOAD & PERF TESTING     ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱   75%  [ GROWING ↑ ]     ║
 ║  JIRA / CLICKUP          ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  100%  [ MASTERED  ]     ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
