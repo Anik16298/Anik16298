@@ -85,15 +85,14 @@
 ║                     ◈ ABILITY SCORE BREAKDOWN ◈                     ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║  MANUAL TESTING          ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  100%  [ MASTERED  ]      ║
-║  TEST CASE WRITING       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  100%  [ MASTERED  ]      ║
-║  JIRA / CLICKUP          ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  100%  [ MASTERED  ]      ║
-║  API TESTING             ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱   90%  [ ADVANCED  ]      ║
-║  SELENIUM                ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱   88%  [ ADVANCED  ]      ║
-║  TEST XMIND MAPPING      ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱   85%  [ ADVANCED  ]      ║
-║  PLAYWRIGHT + POM        ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱   78%  [ RISING  ↑ ]      ║
-║  MOBILE TESTING (APPIUM) ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱   70%  [ GROWING ↑ ]      ║
-║  LOAD & PERF TESTING     ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱   65%  [ GROWING ↑ ]      ║
+║  TEST XMIND MAPPING      ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱   85%  [ ADVANCED  ]     ║
+║  TEST CASE WRITING       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  100%  [ MASTERED  ]     ║
+║  MANUAL TESTING          ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  100%  [ MASTERED  ]     ║      
+║  Automation TESTING      ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱   78%  [ RISING  ↑ ]     ║
+║  MOBILE APP TESTING      ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱   70%  [ GROWING ↑ ]     ║
+║  API TESTING             ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱   70%  [ GROWING ↑ ]     ║
+║  LOAD & PERF TESTING     ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱   65%  [ GROWING ↑ ]     ║
+║  JIRA / CLICKUP          ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  100%  [ MASTERED  ]     ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
