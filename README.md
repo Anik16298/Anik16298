@@ -21,7 +21,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,python,nodejs,html,css,dart,flutter,androidstudio,mysql,postman,maven,selenium,playwright,git,figma&perline=18)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,js,ts,python,nodejs,html,css,dart,flutter,androidstudio,mysql,postman,maven,selenium,playwright,git,figma&perline=18)](https://go-skill-icons.vercel.app)
 
 ---
 
