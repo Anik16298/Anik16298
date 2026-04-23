@@ -4,7 +4,8 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=20&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=650&lines=◤+SYSTEM+ONLINE+—+UNIT%3A+ANIK_CHAKRABORTY.exe+◥;◤+MISSION%3A+HUNTING+BUGS+ACROSS+THE+CODEBASE+◥;◤+WEAPONS%3A+PLAYWRIGHT+%7C+SELENIUM+%7C+APPIUM+◥;◤+BREAKING+THINGS+TO+FIX+THEM+SINCE+DAY+ONE+◥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=20&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=650&lines=◤+SYSTEM+ONLINE+—+UNIT%3A+ANIK_CHAKRABORTY+◥;◤+MISSION%3A+HUNTING+BUGS+ACROSS+THE+CODEBASE+◥;◤+WEAPONS%3A+PLAYWRIGHT+%7C+SELENIUM+%7C+APPIUM+◥;◤+BREAKING+THINGS+TO+FIX+THEM+SINCE+DAY+ONE+◥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=20&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=650&lines=◤+SYSTEM+ONLINE+—+UNIT%3A+QA_ANIK+◥;◤+MISSION%3A+HUNTING+BUGS+ACROSS+THE+CODEBASE+◥;◤+WEAPONS%3A+PLAYWRIGHT+%7C+SELENIUM+%7C+APPIUM+◥;◤+BREAKING+THINGS+TO+FIX+THEM+SINCE+DAY+ONE+◥)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,7 +18,7 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="340"/>
+<img align="right" src="https://miro.medium.com/v2/resize:fit:960/1*A6Sl8DS_C6-mYf2KiqvtyA.gif" width="390"/>
 
 ## `⟦ AGENT_PROFILE ⟧`
 
@@ -43,7 +44,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-Neural_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050D18)](https://www.linkedin.com/in/helloanik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)&nbsp;[![Facebook](https://img.shields.io/badge/◈_FACEBOOK-Comm_Channel-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=050D18)](https://www.facebook.com/anik989.live?mibextid=JRoKGi)&nbsp;[![Gmail](https://img.shields.io/badge/◈_GMAIL-Transmit-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050D18)](mailto:arunabhoanik@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-Neural_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050D18)](https://www.linkedin.com/in/anik16298/)&nbsp;[![Facebook](https://img.shields.io/badge/◈_FACEBOOK-Comm_Channel-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=050D18)](https://www.facebook.com/hey.chakra/)&nbsp;[![Gmail](https://img.shields.io/badge/◈_GMAIL-Transmit-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050D18)](mailto:arunabhoanik@gmail.com)
 
 </div>
 
