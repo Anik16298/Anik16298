@@ -1,29 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=ANIK%20CHAKRABORTY&fontSize=60&fontColor=00FFD1&fontAlignY=40&desc=◈%20SQA%20ENGINEER%20◈%20BUG%20HUNTER%20◈%20TEST%20ARCHITECT%20◈&descSize=16&descAlignY=65&descFontColor=88FFDD&animation=twinkling&stroke=00FFD1&strokeWidth=2"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=700&lines=◤+SYSTEM+ONLINE+—+UNIT%3A+ANIK_CHAKRABORTY.exe+◥;◤+MISSION%3A+HUNTING+BUGS+ACROSS+THE+CODEBASE+◥;◤+WEAPONS%3A+PLAYWRIGHT+%7C+SELENIUM+%7C+APPIUM+◥;◤+STATUS%3A+BREAKING+THINGS+TO+FIX+THEM+◥" alt="Typing SVG" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0D1117,50:003333,100:0D1117&text=ANIK%20CHAKRABORTY&fontSize=58&fontColor=00FFD1&fontAlignY=42&desc=◈%20SQA%20ENGINEER%20◈%20BUG%20HUNTER%20◈%20TEST%20ARCHITECT%20◈&descSize=15&descAlignY=62&descFontColor=44DDBB&animation=twinkling&stroke=00FFD1&strokeWidth=1"/>
 
 <br/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=650&lines=◤+SYSTEM+ONLINE+—+UNIT%3A+ANIK_CHAKRABORTY.exe+◥;◤+MISSION%3A+HUNTING+BUGS+ACROSS+THE+CODEBASE+◥;◤+WEAPONS%3A+PLAYWRIGHT+%7C+SELENIUM+%7C+APPIUM+◥;◤+BREAKING+THINGS+TO+FIX+THEM+SINCE+DAY+ONE+◥" alt="Typing SVG" />
 
-![](https://img.shields.io/badge/STATUS-ONLINE-00FFD1?style=for-the-badge&labelColor=0D1117&color=00FFD1)
-![](https://img.shields.io/badge/ROLE-SQA_ENGINEER-00BFFF?style=for-the-badge&labelColor=0D1117&color=00BFFF)
-![](https://img.shields.io/badge/LEVEL-JUNIOR_→_RISING-FF6B35?style=for-the-badge&labelColor=0D1117&color=FF6B35)
-![Profile Views](https://komarev.com/ghpvc/?username=anik16298&label=PROFILE+SCANS&color=00ffd1&style=for-the-badge)
+<br/><br/>
+
+![](https://img.shields.io/badge/STATUS-●_ONLINE-00FFD1?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/ROLE-SQA_ENGINEER-00BFFF?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/LEVEL-JUNIOR_→_RISING-FF6B35?style=for-the-badge&labelColor=0D1117)
+![](https://komarev.com/ghpvc/?username=anik16298&label=PROFILE+SCANS&color=00ffd1&style=for-the-badge)
 
 </div>
 
 ---
 
-<img align="right" src="https://miro.medium.com/v2/resize:fit:960/1*A6Sl8DS_C6-mYf2KiqvtyA.gif" width="400"/>
+<img align="right" src="https://miro.medium.com/v2/resize:fit:960/1*A6Sl8DS_C6-mYf2KiqvtyA.gif" width="390"/>
 
 ## `⟦ AGENT_PROFILE ⟧`
 
@@ -49,11 +43,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-Connect_Via_Neural_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050D18)](https://www.linkedin.com/in/helloanik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-&nbsp;
-[![Facebook](https://img.shields.io/badge/◈_FACEBOOK-Open_Comm_Channel-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=050D18)](https://www.facebook.com/anik989.live?mibextid=JRoKGi)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/◈_GMAIL-Transmit_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050D18)](mailto:arunabhoanik@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-Neural_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050D18)](https://www.linkedin.com/in/helloanik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)&nbsp;[![Facebook](https://img.shields.io/badge/◈_FACEBOOK-Comm_Channel-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=050D18)](https://www.facebook.com/anik989.live?mibextid=JRoKGi)&nbsp;[![Gmail](https://img.shields.io/badge/◈_GMAIL-Transmit-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050D18)](mailto:arunabhoanik@gmail.com)
 
 </div>
 
@@ -63,11 +53,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,nodejs,html,css&perline=7" />
-<br/>
-<img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,mysql,postman,git,figma&perline=7" />
-<br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,playwright,appium,maven&perline=7" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,ts,python,nodejs,html,css,dart,flutter,androidstudio,mysql,postman,maven,selenium,playwright,git,figma&perline=17"/>
 
 </div>
 
@@ -77,9 +63,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=anik16298&show_icons=true&theme=merko&border_color=00FFD1&title_color=00FFD1&icon_color=00FFD1&text_color=88FFDD&bg_color=050D18&ring_color=00FFD1&border_radius=10&custom_title=◈+SYSTEM+METRICS"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik16298&layout=compact&theme=merko&border_color=00FFD1&title_color=00FFD1&text_color=88FFDD&bg_color=050D18&border_radius=10&custom_title=◈+LANGUAGE+MATRIX"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=anik16298&show_icons=true&theme=merko&border_color=00FFD1&title_color=00FFD1&icon_color=00FFD1&text_color=88FFDD&bg_color=050D18&ring_color=00FFD1&border_radius=10&custom_title=◈+SYSTEM+METRICS"/>&nbsp;&nbsp;<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik16298&layout=compact&theme=merko&border_color=00FFD1&title_color=00FFD1&text_color=88FFDD&bg_color=050D18&border_radius=10&custom_title=◈+LANGUAGE+MATRIX"/>
 
 </div>
 
@@ -119,7 +103,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anik16298&bg_color=050D18&color=00FFD1&line=00FFD1&point=FF6B35&area_color=00FFD120&area=true&hide_border=false&border_color=00FFD1&custom_title=◈+NEURAL+ACTIVITY+LOG&title_color=00FFD1&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anik16298&bg_color=050D18&color=00FFD1&line=00FFD1&point=FF6B35&area=true&hide_border=false&border_color=00FFD1&custom_title=◈+NEURAL+ACTIVITY+LOG&title_color=00FFD1&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -137,6 +121,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,5,30&section=footer&text=◈+STAY+CURIOUS.+BREAK+THINGS.+FIX+THEM.+◈&fontSize=16&fontColor=00FFD1&fontAlignY=65&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0D1117,50:003333,100:0D1117&section=footer&text=◈+STAY+CURIOUS.+BREAK+THINGS.+FIX+THEM.+◈&fontSize=16&fontColor=00FFD1&fontAlignY=68&animation=twinkling"/>
 
 </div>
