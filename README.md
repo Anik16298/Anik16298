@@ -1,116 +1,142 @@
-<!-- HEADER -->
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║          SYSTEM BOOT... INITIALIZING PROFILE...               ║
-║          UNIT: ANIK CHAKRABORTY // SQA ENGINEER               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=ANIK%20CHAKRABORTY&fontSize=60&fontColor=00FFD1&fontAlignY=40&desc=◈%20SQA%20ENGINEER%20◈%20BUG%20HUNTER%20◈%20TEST%20ARCHITECT%20◈&descSize=16&descAlignY=65&descFontColor=88FFDD&animation=twinkling&stroke=00FFD1&strokeWidth=2"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Anik+Chakraborty;Junior+SQA+Engineer;Bug+Hunter+%7C+Test+Architect;Automation+%7C+Playwright+%7C+Selenium" alt="Typing SVG" />
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=700&lines=◤+SYSTEM+ONLINE+—+UNIT%3A+ANIK_CHAKRABORTY.exe+◥;◤+MISSION%3A+HUNTING+BUGS+ACROSS+THE+CODEBASE+◥;◤+WEAPONS%3A+PLAYWRIGHT+%7C+SELENIUM+%7C+APPIUM+◥;◤+STATUS%3A+BREAKING+THINGS+TO+FIX+THEM+◥" alt="Typing SVG" />
+
+</div>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=anik16298&label=PROFILE+VIEWS&color=00ffd1&style=for-the-badge)
+<div align="center">
+
+![](https://img.shields.io/badge/STATUS-ONLINE-00FFD1?style=for-the-badge&labelColor=0D1117&color=00FFD1)
+![](https://img.shields.io/badge/ROLE-SQA_ENGINEER-00BFFF?style=for-the-badge&labelColor=0D1117&color=00BFFF)
+![](https://img.shields.io/badge/LEVEL-JUNIOR_→_RISING-FF6B35?style=for-the-badge&labelColor=0D1117&color=FF6B35)
+![Profile Views](https://komarev.com/ghpvc/?username=anik16298&label=PROFILE+SCANS&color=00ffd1&style=for-the-badge)
 
 </div>
 
 ---
 
-<!-- ABOUT -->
-<img align="right" alt="coding" width="380" src="https://miro.medium.com/v2/resize:fit:960/1*A6Sl8DS_C6-mYf2KiqvtyA.gif"/>
+<img align="right" src="https://miro.medium.com/v2/resize:fit:960/1*A6Sl8DS_C6-mYf2KiqvtyA.gif" width="400"/>
 
-### `> AGENT_PROFILE.exe`
+## `⟦ AGENT_PROFILE ⟧`
 
-```yaml
-NAME       : Anik Chakraborty
-ROLE       : Junior SQA Engineer @ AKIJ iBOS Limited
-MISSION    : Timely identifying & resolving defects
-CURRENT    : Advanced Automation — Playwright & POM
-SPECIALTY  : Advanced Testing Process
-CONTACT    : arunabhoanik@gmail.com
-STATUS     : 🟢 ONLINE
+```ini
+╔══════════════════════════════════════════════╗
+║  UNIT_ID   : Anik Chakraborty               ║
+║  CALLSIGN  : anik16298                      ║
+║  CLASS     : Junior SQA Engineer            ║
+║  BASE      : AKIJ iBOS Limited              ║
+║  SECTOR    : Quality Assurance Division     ║
+║  PROTOCOL  : Playwright POM — ACTIVE        ║
+║  CLEARANCE : Advanced Testing Process       ║
+║  SIGNAL    : arunabhoanik@gmail.com         ║
+║  THREAT LV : ████████████ BUGS BEWARE       ║
+╚══════════════════════════════════════════════╝
 ```
 
 <br clear="right"/>
 
 ---
 
-<!-- STATS -->
-### `> COMBAT_STATS.log`
+## `⟦ ESTABLISH_CONNECTION ⟧`
 
 <div align="center">
 
-![Anik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anik16298&show_icons=true&theme=chartreuse-dark&border_color=00ffd1&title_color=00ffd1&icon_color=00ffd1&text_color=ffffff&bg_color=0d1117)&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anik16298&layout=compact&theme=chartreuse-dark&border_color=00ffd1&title_color=00ffd1&text_color=ffffff&bg_color=0d1117)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=anik16298&theme=dark&border=00ffd1&ring=00ffd1&fire=ff6b35&currStreakLabel=00ffd1&sideLabels=00ffd1&dates=888888&background=0d1117)
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-Connect_Via_Neural_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050D18)](https://www.linkedin.com/in/helloanik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+&nbsp;
+[![Facebook](https://img.shields.io/badge/◈_FACEBOOK-Open_Comm_Channel-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=050D18)](https://www.facebook.com/anik989.live?mibextid=JRoKGi)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/◈_GMAIL-Transmit_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050D18)](mailto:arunabhoanik@gmail.com)
 
 </div>
 
 ---
 
-<!-- CONNECT -->
-### `> ESTABLISH_CONNECTION.sh`
+## `⟦ TECH_ARSENAL ⟧`
 
-<div align="left">
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helloanik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anik989.live?mibextid=JRoKGi)&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunabhoanik@gmail.com)
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,nodejs,html,css&perline=7" />
+<br/>
+<img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,mysql,postman,git,figma&perline=7" />
+<br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=selenium,playwright,appium,maven&perline=7" />
 
 </div>
 
 ---
 
-<!-- TECH STACK -->
-### `> LOAD_ARSENAL.sh`
-
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,js,ts,python,nodejs,html,css,dart,flutter,androidstudio,mysql,postman,maven,selenium,playwright,git,figma&perline=18)](https://go-skill-icons.vercel.app)
-
----
-
-<!-- SKILLS -->
-### `> SKILL_MATRIX.dat`
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  SKILL                          PROFICIENCY                  ║
-╠══════════════════════════════════════════════════════════════╣
-║  Test Mapping (Xmind)           ████████████░░  ADVANCED     ║
-║  Manual Testing                 ███████████████ EXPERT       ║
-║  Automation (Selenium)          ████████████░░  ADVANCED     ║
-║  Automation (Playwright)        ██████████░░░░  GROWING      ║
-║  Mobile Testing (Appium)        █████████░░░░░  PROFICIENT   ║
-║  API Testing                    ████████████░░  ADVANCED     ║
-║  Load & Performance Testing     ████████░░░░░░  PROFICIENT   ║
-║  Test Reporting (Jira/ClickUp)  ███████████████ EXPERT       ║
-║  Test Case Writing              ███████████████ EXPERT       ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-<!-- ACTIVITY -->
-### `> ACTIVITY_GRAPH.exe`
+## `⟦ COMBAT_STATISTICS ⟧`
 
 <div align="center">
 
-[![Anik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anik16298&bg_color=0d1117&color=00ffd1&line=00ffd1&point=ffffff&area=true&hide_border=false&border_color=00ffd1)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=anik16298&show_icons=true&theme=merko&border_color=00FFD1&title_color=00FFD1&icon_color=00FFD1&text_color=88FFDD&bg_color=050D18&ring_color=00FFD1&border_radius=10&custom_title=◈+SYSTEM+METRICS"/>
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik16298&layout=compact&theme=merko&border_color=00FFD1&title_color=00FFD1&text_color=88FFDD&bg_color=050D18&border_radius=10&custom_title=◈+LANGUAGE+MATRIX"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=anik16298&theme=dark&background=050D18&border=00FFD1&ring=00FFD1&fire=FF6B35&currStreakLabel=00FFD1&sideLabels=00FFD1&dates=88FFDD&sideNums=00FFD1&currStreakNum=FFFFFF&stroke=00FFD1&border_radius=10"/>
 
 </div>
 
 ---
 
-<!-- FOOTER -->
+## `⟦ SKILL_MATRIX ⟧`
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                     ◈ ABILITY SCORE BREAKDOWN ◈                     ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  MANUAL TESTING          ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  100%  [ MASTERED  ]      ║
+║  TEST CASE WRITING       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  100%  [ MASTERED  ]      ║
+║  JIRA / CLICKUP          ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  100%  [ MASTERED  ]      ║
+║  API TESTING             ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱   90%  [ ADVANCED  ]      ║
+║  SELENIUM                ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱   88%  [ ADVANCED  ]      ║
+║  TEST XMIND MAPPING      ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱   85%  [ ADVANCED  ]      ║
+║  PLAYWRIGHT + POM        ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱   78%  [ RISING  ↑ ]      ║
+║  MOBILE TESTING (APPIUM) ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱   70%  [ GROWING ↑ ]      ║
+║  LOAD & PERF TESTING     ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱   65%  [ GROWING ↑ ]      ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## `⟦ ACTIVITY_TRACE ⟧`
+
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║   "A detail-oriented SQA Engineer skilled in timely           ║
-║    identifying and resolving defects."                        ║
-║                                              — ANIK.exe       ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anik16298&bg_color=050D18&color=00FFD1&line=00FFD1&point=FF6B35&area_color=00FFD120&area=true&hide_border=false&border_color=00FFD1&custom_title=◈+NEURAL+ACTIVITY+LOG&title_color=00FFD1&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+</div>
+
+---
+
+## `⟦ ACHIEVEMENT_LOG ⟧`
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=anik16298&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=7)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,5,30&section=footer&text=◈+STAY+CURIOUS.+BREAK+THINGS.+FIX+THEM.+◈&fontSize=16&fontColor=00FFD1&fontAlignY=65&animation=twinkling"/>
 
 </div>
