@@ -15,13 +15,17 @@
 
 ### Connect with Me:
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/helloanik)&nbsp;[![Facebook](https://skillicons.dev/icons?i=discord)](https://www.facebook.com/anik989.live)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helloanik)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anik989.live?mibextid=JRoKGi)
 
 ---
 
 ### Languages and Tools:
 
-![](https://skillicons.dev/icons?i=java,js,ts,python,nodejs,html,css,dart,flutter,androidstudio,mysql,postman,maven,selenium,playwright,git,figma&perline=17)
+![](https://skillicons.dev/icons?i=java,js,ts,python,nodejs,html,css,dart,flutter,androidstudio,mysql,postman,maven,selenium,git,figma&perline=16)
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-40C4FF?style=for-the-badge&logo=appium&logoColor=black)
 
 ---
 
