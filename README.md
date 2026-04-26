@@ -43,7 +43,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-Neural_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050D18)](https://www.linkedin.com/in/anik16298/)&nbsp;[![Facebook](https://img.shields.io/badge/◈_FACEBOOK-Comm_Channel-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=050D18)](https://www.facebook.com/hey.chakra/)&nbsp;[![Gmail](https://img.shields.io/badge/◈_GMAIL-Transmit-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050D18)](mailto:arunabhoanik@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/%E2%97%88_LINKEDIN-Neural_Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050D18)](https://www.linkedin.com/in/anik16298/)&nbsp;[![Facebook](https://img.shields.io/badge/%E2%97%88_FACEBOOK-Comm_Channel-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=050D18)](https://www.facebook.com/hey.chakra/)&nbsp;[![Gmail](https://img.shields.io/badge/%E2%97%88_GMAIL-Transmit-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050D18)](mailto:arunabhoanik@gmail.com)
 
 </div>
 
