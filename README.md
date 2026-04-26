@@ -23,16 +23,15 @@
 
 ```ini
 ╔══════════════════════════════════════════════╗
-║  UNIT_ID   : Anik Chakraborty               ║
+║  Hunter_ID : Anik Chakraborty               ║
 ║  CALLSIGN  : anik16298                      ║
 ║  CLASS     : Junior SQA Engineer            ║
 ║  BASE      : AKIJ iBOS Limited              ║
 ║  SECTOR    : Quality Assurance Division     ║
-║  PROTOCOL  : Advanced Automation with       ║
-║              Playwright & POM Functionality ║
+║  PROTOCOL  : Playwright | POM | E2E TEST    ║
 ║  CLEARANCE : Advanced Testing Process       ║
-║  SIGNAL    : arunabhoanik@gmail.com         ║
-║  THREAT LV : ████████████ BUGS BEWARE       ║
+║  Signal    : arunabhoanik@gmail.com         ║
+║  THREAT_LVL: ☠☠☠☠☠ ↑ · BUGS BEWARE      ║
 ╚══════════════════════════════════════════════╝
 
 ```
@@ -110,7 +109,7 @@
 ---
 
 <div align="center">
-
-<img width="100%" height="80%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0D1117,50:003333,100:0D1117&section=footer&text=◈+STAY+CURIOUS.+BREAK+THINGS.+FIX+THEM+◈&fontSize=16&fontColor=00FFD1&fontAlignY=68&animation=twinkling"/>
+  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:003333,100:0D1117&section=footer&text=◈+STAY+CURIOUS.+BREAK+THINGS.+FIX+THEM+◈&fontSize=16&fontColor=00FFD1&fontAlignY=68&animation=twinkling"/>
 
 </div>
