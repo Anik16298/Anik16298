@@ -110,7 +110,7 @@
 
 <!-- snake graph -->
 <div align="center">
-  <h2>🐍 SNAKE ATTACKING MY CONTRIBUTION 🐍</h2>
+  <h2>🐍 SNAKE ATTACKING MY CONTRIBUTIONS 🐍</h2>
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)"
