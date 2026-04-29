@@ -30,7 +30,7 @@
 ║  SECTOR    : Quality Assurance Division     ║
 ║  PROTOCOL  : Playwright | POM | E2E TEST    ║
 ║  CLEARANCE : Advanced Testing Process       ║
-║  Signal    : arunabhoanik@gmail.com         ║
+║  Signal    : anik.chakraborty@ibos.io       ║
 ║  THREAT_LVL: ☠☠☠☠☠ ↑ · BUGS BEWARE      ║
 ╚══════════════════════════════════════════════╝
 
