@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,ts,python,nodejs,html,css,dart,flutter,androidstudio,mysql,postman,maven,selenium,playwright,git,figma&perline=17"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,ts,python,nodejs,html,css,react,dart,flutter,androidstudio,mysql,postman,maven,selenium,playwright,git,figma&perline=18"/>
 
 </div>
 
