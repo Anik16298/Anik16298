@@ -97,12 +97,11 @@
 ```
 
 ---
-
 ## `⟦ ACTIVITY_TRACE ⟧`
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.bhupesh.me/graph?username=anik16298&bg_color=050D18&color=00FFD1&line=00FFD1&point=FF6B35&area=true&hide_border=false&border_color=00FFD1&custom_title=◈+NEURAL+ACTIVITY+LOG&title_color=00FFD1&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.bhupesh.me/graph?username=anik16298&theme=react-dark&custom_title=◈+NEURAL+ACTIVITY+LOG)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
