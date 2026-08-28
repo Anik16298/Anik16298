@@ -24,7 +24,7 @@
 ```ini
 ╔══════════════════════════════════════════════╗
 ║  Hunter_ID : Anik Chakraborty               ║
-║  CALLSIGN  : anik16298                      ║
+║  CALLSIGN  : Chakra                         ║
 ║  CLASS     : Junior SQA Engineer            ║
 ║  BASE      : AKIJ iBOS Limited              ║
 ║  SECTOR    : Quality Assurance Division     ║
